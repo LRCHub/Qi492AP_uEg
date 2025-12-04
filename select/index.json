@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Rusty Nail",
+  "base_artist": "X JAPAN",
+  "createdAt": "2025-12-04T09:23:54.602695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "Grip Inc.",
+      "has_synced": true,
+      "path": "select/01_Rusty_Nail_Grip_Inc..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Rusty Nail",
+      "artist": "Jackie Greene",
+      "has_synced": false,
+      "path": "select/02_The_Rusty_Nail_Jackie_Greene.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Rusty Nail",
+      "artist": "Jackie Greene",
+      "has_synced": true,
+      "path": "select/03_The_Rusty_Nail_Jackie_Greene.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "Peter Bjorn and John",
+      "has_synced": false,
+      "path": "select/04_Rusty_Nail_Peter_Bjorn_and_John.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "Labyrinth",
+      "has_synced": true,
+      "path": "select/05_Rusty_Nail_Labyrinth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "X JAPAN (X)",
+      "has_synced": true,
+      "path": "select/06_Rusty_Nail_X_JAPAN_(X).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rusty Nail (1996.12.31)",
+      "artist": "X JAPAN",
+      "has_synced": true,
+      "path": "select/07_Rusty_Nail_(1996.12.31)_X_JAPAN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "X JAPAN",
+      "has_synced": true,
+      "path": "select/08_Rusty_Nail_X_JAPAN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rusty Nail (12/31/96)",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/09_Rusty_Nail_(12_31_96)_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rusty Nail (Instrumental)",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/10_Rusty_Nail_(Instrumental)_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "Peter Bjorn",
+      "has_synced": true,
+      "path": "select/11_Rusty_Nail_Peter_Bjorn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/12_Rusty_Nail_PelleK.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/13_Rusty_Nail_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "Peter Bjorn and John",
+      "has_synced": true,
+      "path": "select/14_Rusty_Nail_Peter_Bjorn_and_John.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "X JAPAN",
+      "has_synced": true,
+      "path": "select/15_Rusty_Nail_X_JAPAN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rusty Nail",
+      "artist": "X JAPAN",
+      "has_synced": true,
+      "path": "select/16_Rusty_Nail_X_JAPAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rusty Nail",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_01_Rusty_Nail_X_JAPAN.txt"
+    }
+  ]
+}
